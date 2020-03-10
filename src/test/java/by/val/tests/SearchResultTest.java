@@ -44,6 +44,7 @@ import java.util.concurrent.TimeUnit;
         //wait.until(ExpectedConditions.titleContains("Selenium"));
         Assert.assertTrue("The page is succesfully loaded"+driver.getTitle(), driver.getTitle().contains("tut.by"));
         Assert.assertTrue(true);
+        Assert.assertTrue(true);
     }
 
 //    @Test
