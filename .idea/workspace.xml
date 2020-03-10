@@ -42,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/by/val/tests/SearchResultTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="105">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,8 +145,8 @@
         <option value="$PROJECT_DIR$/src/test/java/by/val/webpages/ResultsPage.java" />
         <option value="$PROJECT_DIR$/src/test/Recources/vacancies_09.03.2020.txt" />
         <option value="$PROJECT_DIR$/src/test/Recources/vacancies_10.03.2020.txt" />
-        <option value="$PROJECT_DIR$/src/test/java/by/val/tests/SearchResultTest.java" />
         <option value="$PROJECT_DIR$/src/test/Recources/Recources.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/by/val/tests/SearchResultTest.java" />
       </list>
     </option>
   </component>
@@ -567,8 +567,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/by/val/tests/SearchResultTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="105">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
