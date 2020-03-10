@@ -21,7 +21,7 @@ import java.util.concurrent.TimeUnit;
     HomePage page;
     ResultsPage respage;
     ResultsPageNext resultspageNext;
-    static String searchtext="Software Tester";
+    static String searchtext="QA";
 
     @BeforeClass
     public static void setup() throws IOException {
