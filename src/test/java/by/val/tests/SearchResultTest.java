@@ -6,13 +6,7 @@ import by.val.webpages.HomePage;
 import by.val.webpages.ResultsPage;
 import by.val.webpages.ResultsPageNext;
 import org.junit.*;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.Wait;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
@@ -40,21 +34,11 @@ import java.util.concurrent.TimeUnit;
      respage.reportfile();
      resultspageNext = respage.clickNext();
      resultspageNext.clickNext();
-       // WebDriverWait wait = new WebDriverWait(driver, 4);
-        //wait.until(ExpectedConditions.titleContains("Selenium"));
-        Assert.assertTrue("The page is succesfully loaded"+driver.getTitle(), driver.getTitle().contains("tut.by"));
-        Assert.assertTrue(true);
-        Assert.assertTrue(true);
+     Assert.assertTrue("The page is succesfully loaded"+driver.getTitle(), driver.getTitle().contains("tut.by"));
     }
 
-//    @Test
-//    public void testSearchFunction2() {
-//        Assert.assertTrue("The page is succesfully loaded", driver.getTitle()=="Selenium Java tutorial");
-//    }
 
     @AfterClass
     public static void teardown()  {
-
-
     }
 }

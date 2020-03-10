@@ -1,2 +1,2 @@
-browser=chrome
+browser=firefox
 link=https://jobs.tut.by/
