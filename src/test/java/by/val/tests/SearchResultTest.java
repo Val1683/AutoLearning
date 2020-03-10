@@ -43,7 +43,7 @@ import java.util.concurrent.TimeUnit;
        // WebDriverWait wait = new WebDriverWait(driver, 4);
         //wait.until(ExpectedConditions.titleContains("Selenium"));
         Assert.assertTrue("The page is succesfully loaded"+driver.getTitle(), driver.getTitle().contains("tut.by"));
-
+        Assert.assertTrue(true);
     }
 
 //    @Test
