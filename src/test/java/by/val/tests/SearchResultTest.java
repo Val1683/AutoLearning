@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
     HomePage page;
     ResultsPage respage;
     ResultsPageNext resultspageNext;
-    static String searchtext="QA";
+    static String searchtext="QA Manual";
 
     @BeforeClass
     public static void setup() throws IOException {
